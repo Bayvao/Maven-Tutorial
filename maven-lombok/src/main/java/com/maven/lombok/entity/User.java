@@ -1,4 +1,4 @@
-package com.maven.lombok;
+package com.maven.lombok.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
