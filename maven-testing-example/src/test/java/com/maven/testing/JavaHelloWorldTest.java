@@ -3,7 +3,8 @@ package com.maven.testing;
 
 public class JavaHelloWorldTest {
 
-    public void testGetHello() {
+    public void testGetHelloWorld() {
+
 
         JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
 
