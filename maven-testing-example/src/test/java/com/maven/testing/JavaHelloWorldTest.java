@@ -1,16 +1,12 @@
 package com.maven.testing;
 
 
-import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
+import org.testng.annotations.Test;
 
 public class JavaHelloWorldTest {
 
     @Test
     public void getHello() {
-        JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
 
-        assertEquals("Hello World", javaHelloWorld.getHello());
     }
 }
