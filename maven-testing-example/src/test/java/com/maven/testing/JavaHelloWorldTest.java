@@ -6,6 +6,7 @@ public class JavaHelloWorldTest {
 
     @Test
     public void getHello() {
+
         JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
 
         assert("Hello World".equals(javaHelloWorld.getHello()));
